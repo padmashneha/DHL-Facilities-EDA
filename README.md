@@ -36,7 +36,7 @@ Our analysis revealed that Drop Box and DHL Authorized Shipping Centers are the 
 **DHL Authorized Shipping Center:** Third-party businesses (e.g., OfficeMax or Bank of America) that accept shipments on DHL’s behalf.
 **DHL Staffed Facility:** Fully staffed DHL service points that manage all DHL-related operations.
 **Drop-off Facility:** Designated locations (within other businesses) where customers can drop off packages for DHL to process.
-https://miro.medium.com/v2/resize:fit:4800/format:webp/1*EeZOAG4ld6XN7IlrTzSNeg.png![image](https://github.com/user-attachments/assets/7e6be556-ecf0-4994-8f44-1785de4ba9b6)
+![image](assets/location_type)
 
 ## Common Store Placements
 Zip Centroid emerged as the most common placement type, accounting for over 90% of service points.
