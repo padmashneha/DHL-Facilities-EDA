@@ -73,6 +73,6 @@ Understanding peak closing times can help DHL tailor services to meet customer n
 
 # Recommendations
 
-**Expand Drop Box and Shipping Centers:** Prioritize adding facilities in high-traffic urban and suburban areas to improve customer convenience.
-**Optimize Store Placement:** Continue leveraging Zip Centroid placements to ensure that self-service locations and third-party partners serve densely populated areas effectively.
-**Review Closing Time Patterns:** Consider adjusting pickup times to align with peak drop-off hours, enhancing service availability in critical regions.
+- **Expand Drop Box and Shipping Centers:** Prioritize adding facilities in high-traffic urban and suburban areas to improve customer convenience.
+- **Optimize Store Placement:** Continue leveraging Zip Centroid placements to ensure that self-service locations and third-party partners serve densely populated areas effectively.
+- **Review Closing Time Patterns:** Consider adjusting pickup times to align with peak drop-off hours, enhancing service availability in critical regions.
