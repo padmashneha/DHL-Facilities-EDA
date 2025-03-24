@@ -44,25 +44,24 @@ Zip Centroid emerged as the most common placement type, accounting for over 90% 
 **Zip Centroid:** Central points within ZIP codes, strategically placed to serve the maximum population.
 **On Road:** Facilities positioned along highways for ease of access and efficient logistics.
 **On Building:** Locations attached to commercial buildings, such as office complexes or shopping centers, enhancing customer convenience.
-https://miro.medium.com/v2/resize:fit:1160/format:webp/1*U3Pp8QiAH8Qva3Qz_FmwAg.png![image](https://github.com/user-attachments/assets/3edde87d-0e78-4a44-84a7-999a2cd772da)
-
+![image](assets/store_placement.png)
 
 ## States with Most/Least Stores
 **Top 5 States:** Texas, Florida, and California rank highest in terms of DHL facilities, reflecting regions with high demand for courier and logistics services.
-https://miro.medium.com/v2/resize:fit:1160/format:webp/1*TCdfy-YxtHp9VOFf04P-LQ.png![image](https://github.com/user-attachments/assets/09ca0c86-97e5-4c4c-b228-09c73fe20591)
+![image](assets/topcity.png)
 
 **Bottom 5 States:** Alaska and Wyoming have the lowest number of facilities, likely due to sparse population and lower demand.
-https://miro.medium.com/v2/resize:fit:1124/format:webp/1*kpJqUOAk7shKMsCYVDWt8g.png![image](https://github.com/user-attachments/assets/1425b24c-33ea-464d-b423-dda3a889e072)
+![image](assets/bottomcity.png)
 
 ## Last Pickup Closing Times
 The most common last pickup closing time across facilities is 6 PM from Monday to Friday, ensuring that customers can drop off packages after regular business hours.
-https://miro.medium.com/v2/resize:fit:1060/format:webp/1*4kpi-L7OEeq3bGmPyTMPcA.png![image](https://github.com/user-attachments/assets/dd1a5a13-6c6c-48ad-b8b6-ca0c7624bacc)
+![image](assets/closingtime.png)
 
 # Key Insights
 
 ## High Correlation in Store Placement:
 Drop Boxes and DHL Authorized Shipping Centers are highly correlated with Zip Centroid placement, suggesting that self-service and third-party locations are strategically positioned for maximum service coverage.
-https://miro.medium.com/v2/resize:fit:1096/format:webp/1*m1X7j_PZGpiXoWZs12MdNw.png![image](https://github.com/user-attachments/assets/2eee0187-2e08-447a-8880-b15c4c90d82c)
+![image](assets/corr.png)
 
 
 ## Service Expansion Opportunities:
