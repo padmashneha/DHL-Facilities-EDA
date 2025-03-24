@@ -17,7 +17,7 @@ We are going to leverage EDA techniques using Python (pandas, seaborn, matplotli
 
 # Data Structure
 The dataset consist of only one table - DHL_Facilities with all the information on location, type of services, latitude, longitude, address. 
-![image](https://github.com/user-attachments/assets/1cb3b5d0-6c69-4d29-aeb5-577960f7d5b7)
+![image](https://github.com/user-attachments/assets/1cb3b5d0-6c69-4d29-aeb5-577960f7d5b7 | width=100)
 
 
 # Insights Summary
