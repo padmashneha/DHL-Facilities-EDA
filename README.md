@@ -1,6 +1,6 @@
 # DHL Facilities Insights - Project Overview
 
-**Goal:** of this project is to investigate different DHL facilities and their operations across the USA in order to surface recommendations on the providing optimal operation hours, and services.
+**Goal:** To investigate different DHL facilities and their operations across the USA in order to surface recommendations on the providing optimal operation hours, and services.
 
 Founded in the 1960s, DHL is a multinational logistics brand delivering over 1.7 billion parcels every year. It operates a vast network of service points across multiple locations. To optimize service delivery and improve customer satisfaction, it is essential to analyze operational data and identify patterns related to store placement, common location services, and peak pickup closing times.
 
